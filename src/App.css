@@ -1,38 +1,52 @@
-.App {
+@font-face {
+  font-family: "Bitgoeul_Bold";
+  src: url("https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_seven@1.2/Bitgoeul_Bold.woff")
+    format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  background: linear-gradient(124.26deg, #9b57d7 36.67%, #dcd6d0 99.61%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Bitgoeul_Bold";
+  min-height: 100vh;
+  margin: 0px;
+}
+
+/* Home */
+.Home {
+  display: grid;
+}
+.Home .top {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 200px;
+}
+.Home .top .Me_img {
+  padding-left: 200px;
+}
+
+.Home .top .Me_content {
+  margin-left: 100px;
+  margin-right: 100px;
+  color: white;
+  font-size: 13px;
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.Home .top .Me_content hr {
+  height: 5px;
+  background-color: white;
+  border: 0px;
+}
+.Home .top .Me_content h2 {
+  margin-top: 10px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.Home .top .Me_content a{
+  text-decoration: none;
 }
