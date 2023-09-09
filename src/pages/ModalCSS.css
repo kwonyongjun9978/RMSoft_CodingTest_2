@@ -1,0 +1,15 @@
+.Mh{
+    color: #191919;
+    background-color: whitesmoke;
+    font-weight: bold;
+}
+.Mb{
+    color: #191919;
+    background-color: whitesmoke;
+    font-family: "Bitgoeul_Bold";
+}
+.m_img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
