@@ -5,7 +5,7 @@ import image2 from '../Images/FrontEnd-Test-Image.png';
 const Task = () => {
     return (
         <div>
-            <div className='task'>
+            <div>
             <img
                 src={image2}
                 style={{ width: '600px', height: '600px', marginBottom: '100px'}}

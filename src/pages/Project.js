@@ -3,8 +3,11 @@ import MenuBar from '../components/MenuBar';
 
 const Project = () => {
     return (
-        <div className="bottom">
-            <MenuBar />
+        <div>
+
+            <div className="bottom">
+                <MenuBar />
+            </div>
         </div>
     );
 };
