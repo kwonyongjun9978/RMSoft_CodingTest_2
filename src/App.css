@@ -50,3 +50,41 @@ body {
 .Home .top .Me_content a{
   text-decoration: none;
 }
+
+/* menubar */
+
+.Menubar {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  height: 150px;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+
+.Menubar .backgrondMenu {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  width: 600px;
+  height: 80px;
+  background-color: linear-gradient(124.26deg, #9b57d7 36.67%, #dcd6d0 99.61%);
+  border: 1px solid linear-gradient(124.26deg, #9b57d7 36.67%, #dcd6d0 99.61%);
+  border-radius: 20px;
+}
+
+.Menubar .icon {
+  font-size: 60px;
+  color: #ffffff;
+  background-color: linear-gradient(124.26deg, #9b57d7 36.67%, #dcd6d0 99.61%);
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.Menubar .icon:hover {
+  font-size: 80px;
+  transform: translateY(-15px);
+}
+
+/* task */

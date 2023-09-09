@@ -1,5 +1,6 @@
 import React from 'react';
 import image from '../Images/main.jpg';
+import MenuBar from '../components/MenuBar';
 
 const Home = () => {
     return (
@@ -18,7 +19,9 @@ const Home = () => {
                     <h2>💻 Github : <a href="https://github.com/kwonyongjun9978" >https://github.com/kwonyongjun9978</a></h2>
                     <h2>🎓 원광대학교 디지털콘텐츠공학부 학사</h2>
                 </div>
-                <div className="bottom"></div>
+                <div className="bottom">
+                    <MenuBar />
+                </div>
             </div>
         </div>
     );
