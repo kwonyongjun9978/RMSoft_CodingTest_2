@@ -61,7 +61,7 @@ const Card2 = () => {
                     <h4>📆 제작기간</h4>
                     <h5>2023년 5월 12일 → 2023년 7월 2일</h5>
                     <hr/>
-                    <h4><a href="https://github.com/kwonyongjun9978" style={{textDecoration: 'none'}}>💻 Github</a></h4>
+                    <h4><a href="https://github.com/ksqrt/carrotMarket" style={{textDecoration: 'none'}}>💻 Github</a></h4>
                     <hr/>
                     <h4><a href="https://www.canva.com/design/DAFlqRNOHns/Vfh2agL7aMnATAE47xbCOA/edit" style={{textDecoration: 'none'}}>📜 PPT</a></h4>
                     <hr/>
