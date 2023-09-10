@@ -1,5 +1,5 @@
 ## 과제2
-<img src="src/Images/front_2.png" alt="front" width="750px" height="450">
+<img src="src/Images/front_2.png" alt="front" width="750px" height="450" align="center">
 
 ### 구현 사항
 
