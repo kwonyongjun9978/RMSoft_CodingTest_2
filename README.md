@@ -1,5 +1,11 @@
 ## 과제2
-<img src="src/Images/front_2.png" alt="front" width="750px" height="450" align="center">
+<table align="center">
+  <tr>
+    <td>
+      <img src="src/Images/front_2.png" alt="front" width="750px" height="450" align="center">
+    </td>
+  </tr>
+</table>
 
 ### 구현 사항
 
