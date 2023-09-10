@@ -13,7 +13,7 @@ const Home = () => {
                 />
                 </div>
                 <div className="Me_content">
-                    <h1>내 사전에 오류란 없다, 개발계의 세스코, 오류박멸 개(발자 어)린이 권용준입니다!</h1>
+                    <h1>내 사전에 오류란 없다, 개발계의 세스코, 오류박멸 개[발자 어]린이 권용준입니다!</h1>
                     <hr/>
                     <h2>📧 Email : skszcz@gmail.com</h2>
                     <h2>💻 Github : <a href="https://github.com/kwonyongjun9978" >https://github.com/kwonyongjun9978</a></h2>
