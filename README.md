@@ -1,6 +1,7 @@
 ## 과제2
 
 React를 사용하여 만든 포트폴리오입니다.
+<img src="src/Images/front_2.png" alt="front" width="400px">
 
 ### 구현 사항
 
